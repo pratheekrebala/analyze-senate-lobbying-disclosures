@@ -1,0 +1,3 @@
+.DS_Store
+xmls_to_use/*
+!xmls_to_use/.gitkeep
